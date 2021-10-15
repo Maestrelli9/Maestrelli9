@@ -1,16 +1,17 @@
-### Hi there 👋
+# Meu nome é Lucas Maestrelli
+### Sou Carioca, formado em Jogos Digitais e atualmente curso Desenvolvimento Web na Trybe 🚀.
 
-<!--
-**Maestrelli9/Maestrelli9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/Maestrelli9">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Meus interesses:
+- Estou estudando *backend*, mais especificamente **MongoDB** e **MySQL** na parte de banco de dados.
+- Meus hobbies são **Jogos** e qualquer tipo de **leitura** de ficção.
+- Sou apaixonado em aprender línguas sejam elas *códigos* ou *idiomas*.
+  - Estou sempre aberto a aprender novas linguagens.
+  - Sou Fluente/Avançado em inglês, tenho Italiano e Espanhol básicos e Francês básico-intermediário.
+- 📫 Por favor, envie um *email* para lucasmaestrelli95@gmail.com para me encontrar.
+- Agora se você clicar **[Aqui](https://www.linkedin.com/in/lucas-maestrelli/)** você irá para o meu *linkedin*.
