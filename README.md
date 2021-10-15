@@ -31,4 +31,7 @@
 - 😍Sou apaixonado em aprender línguas sejam elas *códigos* ou *idiomas*.
   -👊 Estou sempre aberto a aprender novas linguagens.
   - 💬Sou Fluente/Avançado em inglês, tenho Italiano e Espanhol básicos e Francês básico-intermediário.
-
+  
+  ##
+  
+ ![Snake animation](https://github.com/Maestrelli9/Maestrelli9/blob/output/dist/github-contribution-grid-snake.svg)
