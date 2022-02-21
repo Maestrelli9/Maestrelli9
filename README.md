@@ -1,6 +1,6 @@
 # Meu nome é Lucas Maestrelli
 ### Sou Carioca, formado em Jogos Digitais e atualmente curso Desenvolvimento Web na Trybe 🚀.
-### I'm from Rio de Janeiro, Brazil classic "Carioca" as we call it. I'm graduated in Game Development and nowadays I'm studying Web Development at Trybe 🚀.
+### I'm from Rio de Janeiro, Brazil. Classic "Carioca" as we call it. I'm graduated in Game Development and nowadays I'm studying Web Development at Trybe 🚀.
 
 <div align="center">
   <a href="https://github.com/Maestrelli9">
@@ -21,9 +21,9 @@
   ## 
   
   ### Meus interesses:
-- 💻 Estou estudando *backend* e *Desenvolvimento Mobile* , mais especificamente **MongoDB** e **MySQL** na parte de banco de dados e **React Native** e **Flutter** para mobile.
-- 🎮 Meus hobbies são **Jogos** e qualquer tipo de **leitura** de ficção.
-- 😍 Sou apaixonado em aprender línguas sejam elas *códigos* ou *idiomas*.
+  - 💻 Estou estudando *backend* e *Desenvolvimento Mobile* , mais especificamente **MongoDB** e **MySQL** na parte de banco de dados e **React Native** e **Flutter** para mobile.
+  - 🎮 Meus hobbies são **Jogos** e qualquer tipo de **leitura** de ficção.
+  - 😍 Sou apaixonado em aprender línguas sejam elas *códigos* ou *idiomas*.
   - 👊 Estou sempre aberto a aprender novas linguagens.
   - 💬 Sou Fluente/Avançado em inglês, tenho Italiano e Espanhol básicos e Francês básico-intermediário.
   
@@ -33,8 +33,8 @@
   
   ### My interests:
   - 💻 At the moment I'm studying *typescript* and *Mobile Development*( **React Native** and **Flutter** ).
-- 🎮 My hobbies are playing **Videogames** and any type of **Reading** be it fiction books or mangas and tecnology newsletters.
-- 😍 I love to learn new languages such as *Codes* or *Idioms*.
+  - 🎮 My hobbies are playing **Videogames** and any type of **Reading** be it fiction books or mangas and tecnology newsletters.
+  - 😍 I love to learn new languages such as *Codes* or *Idioms*.
   - 👊 I'm always open to learn new languages.
   - 💬 I have fluent/advanced english, basic Italian and Spanish, and basic-intermediate French.
   
