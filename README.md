@@ -21,7 +21,7 @@
   ## 
   
   ### Meus interesses:
-  - 💻 Estou estudando *backend* e *Desenvolvimento Mobile* , mais especificamente **MongoDB** e **MySQL** na parte de banco de dados e **React Native** e **Flutter** para mobile.
+  - 💻 Estou estudando *Data Science* e *Desenvolvimento Mobile* , mais especificamente **Python** e na parte de banco de dados e **React Native** e **Flutter** para mobile.
   - 🎮 Meus hobbies são **Jogos** e qualquer tipo de **leitura** de ficção.
   - 😍 Sou apaixonado em aprender línguas sejam elas *códigos* ou *idiomas*.
   - 👊 Estou sempre aberto a aprender novas linguagens.
@@ -32,7 +32,7 @@
   ##
   
   ### My interests:
-  - 💻 At the moment I'm studying *typescript* and *Mobile Development*( **React Native** and **Flutter** ).
+  - 💻 At the moment I'm studying *Python* and *Mobile Development*( **React Native** and **Flutter** ).
   - 🎮 My hobbies are playing **Videogames** and any type of **Reading** be it fiction books or mangas and tecnology newsletters.
   - 😍 I love to learn new languages such as *Codes* or *Idioms*.
   - 👊 I'm always open to learn new languages.
