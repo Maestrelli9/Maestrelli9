@@ -1,5 +1,6 @@
 # Meu nome é Lucas Maestrelli
-### Sou Carioca, formado em Jogos Digitais e atualmente curso Desenvolvimento Web na Trybe 🚀.
+### Sou Carioca, formado em Jogos Digitais e formado no curso de full stack Desenvolvimento Web da Trybe 🚀.
+### Atualmente trabalho como Analista de Dados na Cleartech empresa de Soluções na área de telecom.
 ### I'm from Rio de Janeiro, Brazil. Classic "Carioca" as we call it. I'm graduated in Game Development and nowadays I'm studying Web Development at Trybe 🚀.
 
 <div align="center">
